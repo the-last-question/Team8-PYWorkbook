@@ -14,8 +14,7 @@ The project was developed using the following technologies
 
 
 ## How to use
-Each solution works separately, all you have to do is have python installed and run the file on a IDE of your choice.
-Also you can run it on [Colabs](https://colab.research.google.com) on a [jupyter notebook](https://jupyter.org/try)
+Each solution works separately, all you have to do is have python installed and run the file on a IDE of your choice, or also you can run it on [Colabs](https://colab.research.google.com) or a [jupyter notebook](https://jupyter.org/try)
 
 ## License
 
