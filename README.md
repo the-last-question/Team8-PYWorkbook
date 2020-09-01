@@ -4,6 +4,11 @@
 
 This repository contains some solutions for a simple Python warm up exercise proposed by [Marco Reis](https://github.com/mhar-vell) as part of his Mobile Robotics Class. 
 
+## Team 8
+
+- [Bruna Andrade](https://github.com/brunandrade)
+- [Leonardo Sena](https://github.com/leosena21)
+- [Tárcio Carvalho](https://github.com/Tarcioc2)
 
 
 ##Technologies
